@@ -40,6 +40,7 @@ A.main(1);
 
 	public static void main(int[] argss) {
 		System.out.println("Integer Durga");
+		System.out.println("Inteeeeeeee");
 		
 	}
 	
