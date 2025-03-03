@@ -14,6 +14,8 @@ class Durga {
 	static int x;
 	{
 	System.out.println(x+"......."+x);
+	System.out.println("tttttttttttt");
+	System.out.println("hhhhhhhhh");
 	}
 	
 	int z;
